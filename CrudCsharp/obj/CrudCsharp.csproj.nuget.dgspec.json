@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\PROJETOS\\CRUDaspnet\\crudcsharp\\CrudCsharp.csproj": {}
+    "F:\\PROJETOS\\CRUDaspnet\\CrudCsharp\\CrudCsharp.csproj": {}
   },
   "projects": {
-    "F:\\PROJETOS\\CRUDaspnet\\crudcsharp\\CrudCsharp.csproj": {
+    "F:\\PROJETOS\\CRUDaspnet\\CrudCsharp\\CrudCsharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\PROJETOS\\CRUDaspnet\\crudcsharp\\CrudCsharp.csproj",
+        "projectUniqueName": "F:\\PROJETOS\\CRUDaspnet\\CrudCsharp\\CrudCsharp.csproj",
         "projectName": "CrudCsharp",
-        "projectPath": "F:\\PROJETOS\\CRUDaspnet\\crudcsharp\\CrudCsharp.csproj",
+        "projectPath": "F:\\PROJETOS\\CRUDaspnet\\CrudCsharp\\CrudCsharp.csproj",
         "packagesPath": "C:\\Users\\nic47\\.nuget\\packages\\",
-        "outputPath": "F:\\PROJETOS\\CRUDaspnet\\crudcsharp\\obj\\",
+        "outputPath": "F:\\PROJETOS\\CRUDaspnet\\CrudCsharp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "F:\\VStudio\\Shared\\NuGetPackages"
