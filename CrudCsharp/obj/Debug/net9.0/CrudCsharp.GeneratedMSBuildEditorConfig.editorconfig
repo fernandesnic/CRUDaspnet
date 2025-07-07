@@ -40,6 +40,26 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[F:/PROJETOS/CRUDaspnet/CrudCsharp/Pages/Premiums/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJlbWl1bXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/PROJETOS/CRUDaspnet/CrudCsharp/Pages/Premiums/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJlbWl1bXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/PROJETOS/CRUDaspnet/CrudCsharp/Pages/Premiums/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJlbWl1bXNcRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/PROJETOS/CRUDaspnet/CrudCsharp/Pages/Premiums/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJlbWl1bXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/PROJETOS/CRUDaspnet/CrudCsharp/Pages/Premiums/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJlbWl1bXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [F:/PROJETOS/CRUDaspnet/CrudCsharp/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
